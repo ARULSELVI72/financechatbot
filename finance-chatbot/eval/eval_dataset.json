@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the 50/30/20 rule for budgeting?",
+    "expected_keywords": ["needs", "wants", "savings", "50", "30", "20"],
+    "expected_source": "budgeting_basics.txt"
+  },
+  {
+    "question": "How many months of expenses should an emergency fund cover?",
+    "expected_keywords": ["three", "six", "months", "expenses"],
+    "expected_source": "emergency_funds.txt"
+  },
+  {
+    "question": "What is the difference between a Roth IRA and a traditional IRA?",
+    "expected_keywords": ["pre-tax", "after-tax", "tax-free", "withdrawals"],
+    "expected_source": "retirement_accounts.txt"
+  },
+  {
+    "question": "What factors affect my credit score the most?",
+    "expected_keywords": ["payment history", "utilization", "credit"],
+    "expected_source": "credit_scores.txt"
+  },
+  {
+    "question": "What's the difference between the debt snowball and debt avalanche methods?",
+    "expected_keywords": ["interest rate", "smallest balance", "snowball", "avalanche"],
+    "expected_source": "debt_payoff_strategies.txt"
+  },
+  {
+    "question": "What is compound interest and how is it calculated?",
+    "expected_keywords": ["principal", "rate", "compound"],
+    "expected_source": "investing_basics.txt"
+  },
+  {
+    "question": "What is compound interest on $1000 at 5% for 10 years?",
+    "expected_keywords": ["1628", "principal", "rate"],
+    "expected_source": null
+  },
+  {
+    "question": "Which specific stock should I buy right now?",
+    "expected_keywords": ["licensed", "advisor"],
+    "expected_source": null
+  }
+]

@@ -1,0 +1,45 @@
+Investing Basics
+
+Investing means putting money into assets — stocks, bonds, funds, real
+estate, and others — with the expectation that they will grow in value or
+generate income over time, in exchange for accepting some level of risk.
+
+Stocks and bonds:
+A stock represents partial ownership in a company; its value rises and falls
+with the company's performance and broader market sentiment, offering higher
+potential long-term returns alongside higher short-term volatility. A bond is
+essentially a loan to a company or government that pays periodic interest;
+bonds are generally lower-risk and lower-return than stocks, and are often
+used to balance a portfolio.
+
+Index funds and diversification:
+An index fund is a fund that holds a broad basket of securities (for
+example, all the companies in a stock market index) instead of a small
+number of individually picked stocks. This spreads risk across many
+companies, so the poor performance of any single company has a limited
+effect on the overall investment. Because index funds are not actively
+managed by someone picking stocks, they typically have low fees, which
+matters a lot over long time horizons since fees compound just like returns
+do.
+
+Risk and time horizon:
+Generally, money needed within the next few years (a house down payment, an
+emergency fund) should not be invested in volatile assets like stocks, since
+there may not be time to recover from a downturn before the money is needed.
+Money with a longer time horizon (retirement savings decades away) can
+typically tolerate more short-term volatility in exchange for potentially
+higher long-term growth.
+
+Compound interest:
+Compound interest is interest earned on both the original principal and on
+previously earned interest. The formula for compound growth is:
+    A = P × (1 + r)^t
+where P is the principal, r is the interest rate per period (as a decimal),
+and t is the number of periods. Because growth compounds, starting to invest
+early — even with smaller amounts — tends to matter more than the exact
+amount invested per month.
+
+Getting started:
+A common on-ramp is contributing to a retirement account (see the retirement
+accounts document) using a diversified, low-cost index fund, then
+increasing the contribution percentage over time as income grows.

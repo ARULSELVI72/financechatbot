@@ -1,0 +1,36 @@
+Understanding Credit Scores
+
+A credit score is a numeric summary (commonly ranging from about 300 to 850
+in common US scoring models) of how risky a lender considers it to lend you
+money, based on your credit history.
+
+Main factors that influence a credit score:
+1. Payment history (the largest factor) — whether you have paid past bills
+   on time. Even a single missed payment reported to a credit bureau can
+   have a noticeable negative effect.
+2. Credit utilization — how much of your available revolving credit (mainly
+   credit cards) you are using. Keeping utilization low, often cited as
+   under 30% and ideally lower, tends to help the score.
+3. Length of credit history — older accounts generally help, which is why
+   closing your oldest credit card can sometimes hurt your score.
+4. Credit mix — having a mix of credit types (credit cards, installment
+   loans) can have a small positive effect.
+5. New credit inquiries — applying for many new credit accounts in a short
+   period can temporarily lower a score, since it can look like financial
+   distress to a lender.
+
+Practical habits that support a healthy score:
+- Pay at least the minimum on every bill, every time, ideally in full to
+  avoid interest.
+- Keep credit card balances low relative to their limits.
+- Avoid closing old accounts unless there is a good reason (like a high
+  annual fee with no benefit to you).
+- Check your credit report periodically for errors — mistakes do happen, and
+  disputing them can improve your score.
+
+Why it matters:
+Lenders use credit scores to decide whether to approve loans and credit
+cards, and to set the interest rate offered. A stronger score can translate
+into meaningfully lower interest costs over the life of a mortgage, auto
+loan, or credit card balance, so it is worth treating credit health as an
+ongoing habit rather than a one-time fix.

@@ -1,0 +1,38 @@
+Debt Payoff Strategies: Snowball vs Avalanche
+
+When paying down multiple debts (credit cards, personal loans, etc.), two
+widely discussed strategies are the debt snowball and the debt avalanche.
+Both assume you pay the minimum on every debt, then direct any extra money
+toward one target debt at a time.
+
+Debt avalanche:
+Extra payments go toward the debt with the highest interest rate first,
+regardless of balance size. Once that debt is paid off, the extra payment
+rolls onto the debt with the next-highest rate, and so on. Mathematically,
+this method minimizes the total interest paid over time, making it the most
+efficient option in pure dollar terms.
+
+Debt snowball:
+Extra payments go toward the debt with the smallest balance first,
+regardless of interest rate. Once the smallest debt is paid off, that
+payment amount rolls onto the next-smallest balance. This method tends to
+produce faster "wins" — a debt fully paid off sooner — which can build
+motivation and momentum, even though it may cost somewhat more in total
+interest compared to the avalanche method.
+
+Choosing between them:
+The avalanche method is the better choice on paper for minimizing interest
+cost. The snowball method can be a better fit for someone who benefits from
+early psychological wins to stay motivated and consistent. Since consistency
+matters more than optimality if a plan doesn't get followed, the "best"
+method is often whichever one a person will actually stick with.
+
+Other general debt considerations:
+- High-interest debt (many credit cards, some personal loans) usually
+  deserves priority over low-interest debt (some mortgages, some student
+  loans), since the cost of carrying it is higher.
+- Consolidating multiple high-interest debts into a single lower-interest
+  loan can reduce total interest, but only helps if it doesn't lead to
+  running up new debt on the now-empty credit cards.
+- Making at least the minimum payment on every debt, on time, protects your
+  credit score while you focus extra payments on your target debt.

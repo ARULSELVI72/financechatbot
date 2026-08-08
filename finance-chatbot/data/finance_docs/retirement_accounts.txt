@@ -1,0 +1,41 @@
+Retirement Accounts: Traditional vs Roth
+
+Two common tax-advantaged retirement account types (in the US context) are
+Traditional and Roth accounts, available as either an employer-sponsored
+401(k)/403(b) or an individual IRA.
+
+Traditional accounts:
+Contributions are typically made with pre-tax dollars, which lowers taxable
+income in the year of the contribution. The money grows tax-deferred, and
+withdrawals in retirement are taxed as ordinary income. This can be
+advantageous if you expect to be in a lower tax bracket in retirement than
+you are now.
+
+Roth accounts:
+Contributions are made with after-tax dollars, so there is no upfront tax
+deduction. In exchange, qualified withdrawals in retirement — including all
+investment growth — are completely tax-free. This can be advantageous if you
+expect to be in a similar or higher tax bracket in retirement, or if you
+simply want tax-free income later and the certainty that comes with it.
+
+Employer matching:
+Many employers match a percentage of 401(k) contributions up to a limit
+(for example, 50% of the first 6% of salary contributed). This match is
+essentially free money, so a common piece of guidance is to contribute at
+least enough to capture the full employer match before prioritizing other
+goals.
+
+Contribution limits:
+Retirement accounts have annual contribution limits set by tax authorities,
+and these limits change periodically (often increasing slightly each year
+to account for inflation). Because these figures change, check current
+limits directly with a plan provider or tax authority rather than relying on
+a possibly outdated number.
+
+General decision framework:
+- Capture any employer match first.
+- Decide between Traditional and Roth based on your current vs. expected
+  future tax bracket, or split contributions between both for tax
+  diversification.
+- Increase contribution percentage over time, for example whenever you get a
+  raise.

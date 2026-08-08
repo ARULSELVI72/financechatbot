@@ -1,0 +1,36 @@
+Budgeting Basics
+
+A budget is a plan for how you will spend and save your money over a period of
+time, usually a month. The core idea is simple: track what comes in (income)
+and what goes out (expenses), then make intentional choices instead of
+letting money slip away unnoticed.
+
+The 50/30/20 rule is a popular starting framework. Roughly 50% of after-tax
+income goes to needs (rent, groceries, utilities, minimum debt payments), 30%
+goes to wants (dining out, entertainment, hobbies), and 20% goes to savings
+and extra debt repayment. It is a guideline, not a law — adjust the
+percentages to fit your situation, especially if you live in a high cost of
+living area or are aggressively paying down debt.
+
+Steps to build a simple budget:
+1. List all sources of monthly income after tax.
+2. List fixed expenses (rent/mortgage, insurance, loan payments, subscriptions).
+3. List variable expenses (groceries, transport, entertainment).
+4. Subtract total expenses from income. If the number is negative, look for
+   variable expenses to trim first, since fixed expenses are harder to change
+   quickly.
+5. Assign any leftover money a job: emergency fund, debt payoff, retirement
+   savings, or a specific goal.
+
+Common budgeting methods:
+- Zero-based budgeting: every dollar of income is assigned a job (spend,
+  save, or invest) until the total reaches zero.
+- Envelope system: cash (or a virtual equivalent) is divided into spending
+  categories; when an envelope is empty, spending in that category stops.
+- Pay-yourself-first: a fixed percentage of income is automatically moved to
+  savings the moment it arrives, before any spending happens.
+
+A budget works best when it is reviewed regularly — many people check in
+weekly at first, then monthly once habits stabilize. Expect to adjust the
+plan as life changes (a new job, a move, a new expense) rather than treating
+it as fixed forever.
